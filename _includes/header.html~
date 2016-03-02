@@ -105,7 +105,7 @@ margin-bottom: 20px;">Netsource Interactive is a</span>
         <!-- /.container -->
     </div>
 
-	<div class="content-section-b" style="border-bottom: none;">
+	<div class="content-section-b">
         <div class="container">
             <div class="row">
                 <div class="col-lg-5 col-lg-offset-1 col-sm-push-6  col-sm-6">
@@ -120,6 +120,7 @@ margin-bottom: 20px;">Netsource Interactive is a</span>
 							<li>Spatial Solutions, Displays & Kiosks</li>
 							<li>Internet-of-Things</li>
 							<li>Next Generation Video</li>
+							<li>eLearning & Knowledge Management</li>
 						</ul>
 					</div>
                 </div>

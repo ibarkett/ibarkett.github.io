@@ -8,8 +8,12 @@
                     <h2 class="section-heading">Contact Us</h2>
                     <div style="font-size: 20px;">
 						<span>Netsource Interactive, Inc.</span>
+					</div>
+					<div style="font-size: 20px;">
 						<span>1724 20th Street NW</span>
 						<span>Suite 304</span>
+					</div>
+					<div style="font-size: 20px;">
 						<span>Washington DC 2009</span>
 					</div>
 					<div style="font-size: 20px;">
@@ -22,7 +26,7 @@
 					</div>
                 </div>
                 <div class="col-lg-5 col-lg-offset-2 col-sm-6">
-                    <img class="img-responsive" src="img/diagram-2.png" alt="">
+                    <img class="img-responsive" src="img/address.png" alt="">
                 </div>
             </div>
         </div>
