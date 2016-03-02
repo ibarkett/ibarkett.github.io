@@ -61,7 +61,7 @@ h3 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/bg4.png) no-repeat center center;
+    background: url(../img/bg1.png) no-repeat center center;
     background-size: cover;
 }
 
@@ -190,7 +190,7 @@ h3 {
 
 footer {
     padding: 50px 0;
-    background-color: #f8f8f8;
+    background-color: #fff;
 }
 
 p.copyright {
