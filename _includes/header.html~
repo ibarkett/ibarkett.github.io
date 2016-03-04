@@ -71,7 +71,7 @@ margin-bottom: 20px;">Netsource Interactive is a</span>
 						<p>We incubate projects for our clients and ourselves.</p>
 						<h3>Current Web Incubator Projects:</h3>
 						<p>NetsourceLX is a platform for creating exceptional learning experiences.</p>
-						<img class="img-responsive" src="img/elearning.png" alt="" style="max-width: 70%; margin: 30px auto auto;">
+						<img class="img-responsive" src="img/elearning.png" alt="" style="max-width: 50%; margin: 30px auto auto;">
 					</div>
                 </div>
                 <div class="col-lg-5 col-sm-pull-6  col-sm-6">
