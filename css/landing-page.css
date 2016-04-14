@@ -170,7 +170,7 @@ h3 {
     }
 }
 
-@media(max-width:767px) {
+@media(max-width:768px) {
     .banner h2 {
         margin: 0;
         text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
@@ -215,4 +215,9 @@ p.copyright {
 	font-size: 32px;
 	border: 2px solid rgb(33, 33, 33);
 }
-.list-icon
+
+@media(max-width:768px) {
+    .navbar-brand {
+		padding: 5px 5px;
+	}
+}
