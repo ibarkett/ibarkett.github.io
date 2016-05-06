@@ -1,0 +1,43 @@
+---
+---
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <style>
+        .content-container {
+            margin-top: 64px;
+        }
+        .page-title {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 24px;
+        }
+        .legal-list {
+            list-style: none;
+            padding-left: 0;
+        }
+        .legal-list li {
+            margin-bottom: 1rem;
+        }
+        .legal-list li a {
+            font-size: 36px;
+            padding: 1rem 0;
+            cursor: pointer;
+        }
+    </style>
+    <body>
+        {% include header-2.html %}
+        <div class="container content-container">
+            <h1 class="page-title">Legal</h1>
+            <ul class="legal-list">
+                <li>
+                    <a href="/legal/LX-TOU/">NetsourceLX Terms of Use</a>
+                </li>
+                <li>
+                    <a href="/legal/LX-PRIVACY/">Privacy Policy</a>
+                </li>
+            </ul>
+        </div>
+        {% include footer-2.html %}
+        {% include js.html %}
+    </body>
+</html>
